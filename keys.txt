@@ -1,5 +1,5 @@
 #profile-title: Sam Vpn
-#announce: Сэм,братишка,выбери любой сервер. LTE сервера в самом низу.Пользуйся на здоровье.Будут проблемы с серверами — обращайся. Самые стабильные LTE в самом низу под номерами 6 и 7.
+#announce: Эысрмтплущвсзвузв,выбери любой сервер. LTE сервера в самом низу.Пользуйся на здоровье.Будут проблемы с серверами — обращайся. Самые стабильные LTE в самом низу под номерами 6 и 7.
 #subscription-userinfo: upload=0; download=0; total=0; expire=253392451200
 
 vless://84491c04-b011-4fdc-b97d-770975586f3a@app1.jarvestip.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app1.jarvestip.ru&fp=qq&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&type=tcp&headerType=none#🇳🇱Нидерланды | YT без рекламы
