@@ -1,0 +1,469 @@
+#profile-title: Sam Vpn
+#announce:wieisjdjskwkwk
+#subscription-userinfo: upload=0; download=0; total=0; expire=253392451200
+
+{
+  "remarks": "🇪🇺 AUTO | Авто-сервер",
+  "observatory": {
+    "subjectSelector": [
+      "🇫🇮 Финляндия  | proxy",
+      "🇫🇮 Финляндия | Резерв | proxy",
+      "🇵🇱 Польша | proxy",
+      "🇵🇱  Польша | Резерв | proxy",
+      "🇩🇪 Германия  | proxy",
+      "🇩🇪 Германия | proxy",
+      "🇩🇪 Германия | Резерв  | proxy",
+      "🇳🇱 Нидерланды | proxy",
+      "🇳🇱 Нидерланды | Резерв  | proxy"
+    ],
+    "probeUrl": "http://www.gstatic.com/generate_204",
+    "probeInterval": "1m",
+    "enableConcurrency": true
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "protocol": [
+          "bittorrent"
+        ],
+        "outboundTag": "BLOCK"
+      },
+      {
+        "type": "field",
+        "domain": [
+          "regexp:(^|\\.)ya\\.ru$",
+          "regexp:(^|\\.)yandex\\.(ru|net)$",
+          "regexp:(^|\\.)dzen\\.ru$",
+          "regexp:(^|\\.)mail\\.ru$",
+          "regexp:(^|\\.)vk\\.com$",
+          "regexp:(^|\\.)vkvideo\\.ru$",
+          "regexp:(^|\\.)ok\\.ru$",
+          "regexp:(^|\\.)rutube\\.ru$",
+          "regexp:(^|\\.)rutube\\.com$",
+          "regexp:(^|\\.)rambler\\.ru$",
+          "regexp:(^|\\.)lenta\\.ru$",
+          "regexp:(^|\\.)ria\\.ru$",
+          "regexp:(^|\\.)tass\\.ru$",
+          "regexp:(^|\\.)gazeta\\.ru$",
+          "regexp:(^|\\.)kommersant\\.ru$",
+          "regexp:(^|\\.)rg\\.ru$",
+          "regexp:(^|\\.)iz\\.ru$",
+          "regexp:(^|\\.)cnews\\.ru$",
+          "regexp:(^|\\.)habr\\.com$",
+          "regexp:(^|\\.)habr\\.ru$",
+          "regexp:(^|\\.)gosuslugi\\.ru$",
+          "regexp:(^|\\.)nalog\\.gov\\.ru$",
+          "regexp:(^|\\.)mos\\.ru$",
+          "regexp:(^|\\.)sber\\.ru$",
+          "regexp:(^|\\.)sberbank\\.ru$",
+          "regexp:(^|\\.)tbank\\.ru$",
+          "regexp:(^|\\.)tinkoff\\.ru$",
+          "regexp:(^|\\.)alfabank\\.ru$",
+          "regexp:(^|\\.)vtb\\.ru$",
+          "regexp:(^|\\.)ozon\\.ru$",
+          "regexp:(^|\\.)wildberries\\.ru$",
+          "regexp:(^|\\.)wb\\.ru$",
+          "regexp:(^|\\.)avito\\.ru$",
+          "regexp:(^|\\.)2gis\\.ru$",
+          "regexp:(^|\\.)cdek\\.ru$",
+          "regexp:(^|\\.)pochta\\.ru$",
+          "regexp:(^|\\.)consultant\\.ru$",
+          "regexp:(^|\\.)garant\\.ru$",
+          "regexp:(^|\\.)kino\\.ru$",
+          "regexp:(^|\\.)kinopoisk\\.ru$",
+          "regexp:(^|\\.)music\\.yandex\\.(ru|net)$",
+          "regexp:(^|\\.)disk\\.yandex\\.(ru|net)$",
+          "regexp:(^|\\.).*\\.ru$",
+          "regexp:(^|\\.).*\\.рф$",
+          "regexp:(^|\\.).*\\.su$"
+        ],
+        "outboundTag": "DIRECT"
+      },
+      {
+        "type": "field",
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "DIRECT"
+      },
+      {
+        "type": "field",
+        "network": "tcp,udp",
+        "balancerTag": "🇪🇺 AUTO | Авто-сервер",
+        "ruleTag": "🇪🇺 AUTO | Авто-сервер"
+      }
+    ],
+    "balancers": [
+      {
+        "tag": "🇪🇺 AUTO | Авто-сервер",
+        "selector": [
+          "🇫🇮 Финляндия  | proxy",
+          "🇫🇮 Финляндия | Резерв | proxy",
+          "🇵🇱 Польша | proxy",
+          "🇵🇱  Польша | Резерв | proxy",
+          "🇩🇪 Германия  | proxy",
+          "🇩🇪 Германия | proxy",
+          "🇩🇪 Германия | Резерв  | proxy",
+          "🇳🇱 Нидерланды | proxy",
+          "🇳🇱 Нидерланды | Резерв  | proxy"
+        ],
+        "fallbackTag": "🇫🇮 Финляндия  | proxy",
+        "strategy": {
+          "type": "leastPing"
+        }
+      }
+    ]
+  },
+  "outbounds": [
+    {
+      "protocol": "hysteria",
+      "tag": "🇫🇮 Финляндия  | proxy",
+      "settings": {
+        "version": 2,
+        "address": "save.the.127-0-0-1.online",
+        "port": 443
+      },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "save.the.127-0-0-1.online",
+          "fingerprint": "firefox"
+        },
+        "hysteriaSettings": {
+          "version": 2,
+          "auth": "6urxtiJkuL43k8dEZLq9uq8YRO9ppt5E"
+        }
+      }
+    },
+    {
+      "protocol": "vless",
+      "tag": "🇫🇮 Финляндия | Резерв | proxy",
+      "settings": {
+        "vnext": [
+          {
+            "address": "save.the.127-0-0-1.online",
+            "port": 443,
+            "users": [
+              {
+                "id": "b6bbedf8-f05d-4e32-93f3-fb713fbd8178",
+                "encryption": "mlkem768x25519plus.native.0rtt.1U6UhBMU_3-sR_dpyFzrX13N3awsvceQhU7lcdceBHI"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "save.the.127-0-0-1.online",
+          "fingerprint": "firefox"
+        },
+        "xhttpSettings": {
+          "mode": "packet-up",
+          "path": "/static/stream/values/segment_0xf667ee/",
+          "host": "save.the.127-0-0-1.online",
+          "extra": {
+            "scMaxEachPostBytes": "1000000",
+            "scMinPostsIntervalMs": "30",
+            "xPaddingBytes": "100-1000",
+            "xPaddingObfsMode": true,
+            "xPaddingKey": "q",
+            "xPaddingHeader": "w",
+            "xPaddingPlacement": "header",
+            "xPaddingMethod": "tokenish",
+            "uplinkHTTPMethod": "POST",
+            "sessionIDPlacement": "path",
+            "seqPlacement": "path",
+            "xmux": {
+              "maxConcurrency": "8-16",
+              "cMaxReuseTimes": "100-500",
+              "hMaxRequestTimes": "1000-5000",
+              "hMaxReusableSecs": "300-900"
+            }
+          }
+        }
+      }
+    },
+    {
+      "protocol": "vless",
+      "tag": "🇵🇱 Польша | proxy",
+      "settings": {
+        "vnext": [
+          {
+            "address": "b-balance.avantage.7.s.cdnnow.xyz",
+            "port": 443,
+            "users": [
+              {
+                "id": "b6bbedf8-f05d-4e32-93f3-fb713fbd8178",
+                "encryption": "mlkem768x25519plus.native.0rtt.1U6UhBMU_3-sR_dpyFzrX13N3awsvceQhU7lcdceBHI"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "b-balance.avantage.7.s.cdnnow.xyz",
+          "fingerprint": "firefox"
+        },
+        "xhttpSettings": {
+          "mode": "packet-up",
+          "path": "/static/stream/values/segment_0xf6672ee/",
+          "host": "b-balance.avantage.7.s.cdnnow.xyz",
+          "extra": {
+            "scMaxEachPostBytes": "1000000",
+            "scMinPostsIntervalMs": "30",
+            "xPaddingBytes": "100-1000",
+            "xPaddingObfsMode": true,
+            "xPaddingKey": "q",
+            "xPaddingHeader": "w",
+            "xPaddingPlacement": "header",
+            "xPaddingMethod": "tokenish",
+            "uplinkHTTPMethod": "POST",
+            "sessionIDPlacement": "path",
+            "seqPlacement": "path",
+            "xmux": {
+              "maxConcurrency": "8-16",
+              "cMaxReuseTimes": "100-500",
+              "hMaxRequestTimes": "1000-5000",
+              "hMaxReusableSecs": "300-900"
+            }
+          }
+        }
+      }
+    },
+    {
+      "protocol": "hysteria",
+      "tag": "🇵🇱  Польша | Резерв | proxy",
+      "settings": {
+        "version": 2,
+        "address": "b-balance.avantage.7.s.cdnnow.xyz",
+        "port": 443
+      },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "b-balance.avantage.7.s.cdnnow.xyz",
+          "fingerprint": "firefox"
+        },
+        "hysteriaSettings": {
+          "version": 2,
+          "auth": "6urxtiJkuL43k8dEZLq9uq8YRO9ppt5E"
+        }
+      }
+    },
+    {
+      "protocol": "hysteria",
+      "tag": "🇩🇪 Германия  | proxy",
+      "settings": {
+        "version": 2,
+        "address": "gate-vde.multihost.127-0-0-1.online",
+        "port": 443
+      },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "gate-v1.not-a-projects.xyz"
+        },
+        "hysteriaSettings": {
+          "version": 2,
+          "auth": "6urxtiJkuL43k8dEZLq9uq8YRO9ppt5E"
+        }
+      }
+    },
+    {
+      "protocol": "hysteria",
+      "tag": "🇩🇪 Германия | proxy",
+      "settings": {
+        "version": 2,
+        "address": "av-b-networkbalancer.cdnnow.xyz",
+        "port": 443
+      },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "av-b-networkbalancer.cdnnow.xyz",
+          "fingerprint": "firefox"
+        },
+        "hysteriaSettings": {
+          "version": 2,
+          "auth": "6urxtiJkuL43k8dEZLq9uq8YRO9ppt5E"
+        }
+      }
+    },
+    {
+      "protocol": "vless",
+      "tag": "🇩🇪 Германия | Резерв  | proxy",
+      "settings": {
+        "vnext": [
+          {
+            "address": "av-b-networkbalancer.cdnnow.xyz",
+            "port": 443,
+            "users": [
+              {
+                "id": "b6bbedf8-f05d-4e32-93f3-fb713fbd8178",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "httpupgrade",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "av-b-networkbalancer.cdnnow.xyz",
+          "fingerprint": "firefox"
+        },
+        "httpupgradeSettings": {
+          "path": "/static/files/downloads/stream/segment_ohs8hwnw772hsb.mp2",
+          "host": "av-b-networkbalancer.cdnnow.xyz"
+        }
+      }
+    },
+    {
+      "protocol": "hysteria",
+      "tag": "🇳🇱 Нидерланды | proxy",
+      "settings": {
+        "version": 2,
+        "address": "bigbalancer.networkstate.5.cdnnow.xyz",
+        "port": 443
+      },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "bigbalancer.networkstate.5.cdnnow.xyz",
+          "fingerprint": "firefox",
+          "alpn": [
+            "h3",
+            "h2",
+            "http/1.1"
+          ]
+        },
+        "hysteriaSettings": {
+          "version": 2,
+          "auth": "6urxtiJkuL43k8dEZLq9uq8YRO9ppt5E"
+        }
+      }
+    },
+    {
+      "protocol": "vless",
+      "tag": "🇳🇱 Нидерланды | Резерв  | proxy",
+      "settings": {
+        "vnext": [
+          {
+            "address": "bigbalancer.networkstate.5.cdnnow.xyz",
+            "port": 443,
+            "users": [
+              {
+                "id": "b6bbedf8-f05d-4e32-93f3-fb713fbd8178",
+                "encryption": "mlkem768x25519plus.native.0rtt.1U6UhBMU_3-sR_dpyFzrX13N3awsvceQhU7lcdceBHI"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "bigbalancer.networkstate.5.cdnnow.xyz",
+          "fingerprint": "firefox",
+          "alpn": [
+            "h3",
+            "h2",
+            "http/1.1"
+          ]
+        },
+        "xhttpSettings": {
+          "mode": "packet-up",
+          "path": "/static/stream/values/segment_0xf667ee/",
+          "host": "av-b-networkbalancer.cdnnow.xyz",
+          "extra": {
+            "scMaxEachPostBytes": "1000000",
+            "scMinPostsIntervalMs": "30",
+            "xPaddingBytes": "100-1000",
+            "xPaddingObfsMode": true,
+            "xPaddingKey": "q",
+            "xPaddingHeader": "w",
+            "xPaddingPlacement": "header",
+            "xPaddingMethod": "tokenish",
+            "uplinkHTTPMethod": "POST",
+            "sessionIDPlacement": "path",
+            "seqPlacement": "path",
+            "noGRPCHeader": true,
+            "xmux": {
+              "maxConcurrency": "8-16",
+              "cMaxReuseTimes": "100-500",
+              "hMaxRequestTimes": "1000-5000",
+              "hMaxReusableSecs": "300-900"
+            }
+          }
+        }
+      }
+    },
+    {
+      "protocol": "freedom",
+      "tag": "DIRECT"
+    },
+    {
+      "protocol": "blackhole",
+      "tag": "BLOCK"
+    }
+  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "0.0.0.0",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "0.0.0.0",
+      "port": 10809,
+      "protocol": "http",
+      "settings": {},
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "http"
+    }
+  ],
+  "log": {
+    "loglevel": "none"
+  },
+  "meta": {
+    "serverDescription": "Marzban"
+  }
+    }
