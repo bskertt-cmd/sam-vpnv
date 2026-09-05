@@ -2,20 +2,154 @@
 #announce: Эысрмтплущвсзвузв,выбери любой сервер. LTE сервера в самом низу.Пользуйся на здоровье.Будут проблемы с серверами — обращайся. Самые стабильные LTE в самом низу под номерами 6 и 7.
 #subscription-userinfo: upload=0; download=0; total=0; expire=253392451200
 
-vless://3d059048-8857-4101-a275-f55142159b5c@wsnl4.wba-pn.ru:443?encryption=none&security=tls&alpn=h2%2C%20http%2F1.1&fp=chrome&type=ws&path=%2F#🇳🇱⚡Нидерланды | Мощный
-vless://cc2860c9-c857-4d10-9b12-c8a5c5f281f7@147.45.61.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-02.file-rkat.online&fp=firefox&pbk=1KdHB8WjI4E_Qt43QdY0OByHv9CkLjK_cAtVOcnt1Ug&sid=c8eebab189078461&type=raw#🇳🇱Нидерланды №2
-vless://cc2860c9-c857-4d10-9b12-c8a5c5f281f7@2.26.227.57:443?encryption=none&security=reality&sni=cl-77.file-rkat.online&fp=firefox&pbk=vefXz-O5G9tnwKRwczX4CCOcxSadtNzA4bBWw7Brzys&sid=2859c43323bbeba3&type=xhttp&path=%2Fassets%2Fmedia%2F4e7b91&mode=auto#🇩🇪⚡Германия | Быстрый
-vless://2f600710-9f4e-4eab-8de1-89f60a878e55@app4.goonars.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app4.goonars.com&fp=firefox&pbk=u51rZT5vJj8nO80QBBHVW2-WA5OzzQ1eL6euvszWLQI&sid=09ef88a6&spx=%2F&type=tcp&headerType=none#🇩🇪Германия №2
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?encryption=none&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&type=xhttp&mode=auto&host=www.google.com&path=%2F#🇩🇪Германия №3
-vless://2f600710-9f4e-4eab-8de1-89f60a878e55@usa1che.jarvesitw.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=usa1che.jarvesitw.ru&fp=firefox&pbk=vFnG0SzHIv43o3L8bw4reKp3EIFuSS-BCyBqbWUsYCo&sid=6591f200&spx=%2F&type=tcp&headerType=none#🇺🇸Сша | ИИ
-vless://6379673b-197f-4944-ba81-a45c66aefe9c@31.77.220.162:9444?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ge.aeternavpn.space&fp=qq&pbk=P42Zc2IgRBdSB2gsqoDCGSJvb0xSGzk1p50GlqS_Hik&sid=a1b2c3d4&type=tcp&headerType=none#🇦🇱Албания | YT без рекламы
-vless://cc2860c9-c857-4d10-9b12-c8a5c5f281f7@13.143.132.189:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin-02.file-rkat.online&fp=firefox&pbk=_qD8d3yv48E-OUSXsLX6LFFYc_wE1vj6VxZvwnbIagM&sid=daad1529828cd271&type=raw#🇫🇮Финляндия | Игры
-vless://cc2860c9-c857-4d10-9b12-c8a5c5f281f7@31.76.31.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pop-01.file-rkat.online&fp=firefox&pbk=NweAmwfe6_o_kpCZTAyY5W7yvQaAvNXfwDh6wSkmF2U&sid=3f69ecc51edc3231&type=raw#🇫🇮⚡Финляндия | Для всего
-vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@84.32.151.203:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=lt.superbuba.top&fp=firefox&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk&sid=4fa44664f6a566d3&type=tcp&headerType=none#🇱🇹Литва | Игры
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@au.windconnect.pro:12200?flow=xtls-rprx-vision&encryption=none&security=reality&sni=au.windconnect.pro&fp=firefox&pbk=Kjw_K41-jWxqzAMtOby5y0KREhyjybuHsAHfCEFo6Sc&sid=222afa5374b722b9&type=tcp&headerType=none#🇦🇹Австрия
-vless://6379673b-197f-4944-ba81-a45c66aefe9c@31.77.220.162:17443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ge.aeternavpn.space&fp=qq&pbk=P42Zc2IgRBdSB2gsqoDCGSJvb0xSGzk1p50GlqS_Hik&sid=a1b2c3d4&type=tcp&headerType=none#🇨🇦Канада | ИИ
-vless://d3815c21-ef06-43e2-82e1-ca313962b489@188.72.103.3:443?encryption=none&security=tls&sni=cdnapiv4.arks-media.net&fp=chrome&type=xhttp&mode=packet-up&host=cdnapiv4.arks-media.net&path=%2Fapi%2Fv71%2Fuptodown%2F&extra=%7B%22uplinkHTTPMethod%22%3A%22GET%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22xPaddingBytes%22%3A%2296-1040%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingHeader%22%3A%22X-Media-Token%22%2C%22xPaddingKey%22%3A%22_t%22%2C%22sessionPlacement%22%3A%22cookie%22%2C%22sessionKey%22%3A%22stream_auth%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22sessionIDKey%22%3A%22stream_auth%22%2C%22seqPlacement%22%3A%22cookie%22%2C%22seqKey%22%3A%22part_index%22%2C%22uplinkChunkSize%22%3A0.0%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0.0%2C%22cMaxReuseTimes%22%3A%2224-64%22%2C%22maxConcurrency%22%3A%224-8%22%2C%22maxConnections%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22160-320%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%7D%2C%22scMaxEachPostBytes%22%3A100000.0%2C%22scMinPostsIntervalMs%22%3A70.0%7D#🇪🇺Обход LTE №1
-vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@media.morphai.cc:443?encryption=none&security=tls&sni=media.morphai.cc&alpn=h2%2C%20http%2F1.1&fp=qq&type=xhttp&mode=packet-up&host=media.morphai.cc&path=%2Fhls%2Fv2%2Ftrack%2F8e31c750%2F&extra=%7B%22noSSEHeader%22%3Atrue%2C%22path%22%3A%22%2F%22%2C%22scMaxBufferedPosts%22%3A12.0%2C%22scMaxEachPostBytes%22%3A%22131072-262144%22%2C%22scMinPostsIntervalMs%22%3A%225-10%22%2C%22scStreamUpServerSecs%22%3A%221-2%22%2C%22seqKey%22%3A%22offset%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22media_sid%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22uplinkDataKey%22%3A%22X-Playback-Token%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xmux%22%3A%7B%22hKeepAlivePeriod%22%3A30.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A1800.0%7D%7D#🇪🇺Обход LTE №2
-vless://d3815c21-ef06-43e2-82e1-ca313962b489@188.72.103.3:443?encryption=none&security=tls&sni=cdnaapiv4.arkestmedi.com&fp=chrome&type=xhttp&mode=packet-up&host=cdnaapiv4.arkestmedi.com&path=%2Fapi%2Fv72%2Fuptodown%2F&extra=%7B%22uplinkHTTPMethod%22%3A%22GET%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22xPaddingBytes%22%3A%2296-1040%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingHeader%22%3A%22X-Media-Token%22%2C%22xPaddingKey%22%3A%22_t%22%2C%22sessionPlacement%22%3A%22cookie%22%2C%22sessionKey%22%3A%22stream_auth%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22sessionIDKey%22%3A%22stream_auth%22%2C%22seqPlacement%22%3A%22cookie%22%2C%22seqKey%22%3A%22part_index%22%2C%22uplinkChunkSize%22%3A0.0%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0.0%2C%22cMaxReuseTimes%22%3A%2224-64%22%2C%22maxConcurrency%22%3A%224-8%22%2C%22maxConnections%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22160-320%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%7D%2C%22scMaxEachPostBytes%22%3A100000.0%2C%22scMinPostsIntervalMs%22%3A70.0%7D#🇪🇺Обход LTE №3
-vless://d3815c21-ef06-43e2-82e1-ca313962b489@188.72.103.3:443?encryption=none&security=tls&sni=cdnaapiv4.med-st.com&fp=chrome&type=xhttp&mode=packet-up&host=cdnaapiv4.med-st.com&path=%2Fapi%2Fv76%2Fuptodown%2F&extra=%7B%22uplinkHTTPMethod%22%3A%22GET%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22xPaddingBytes%22%3A%2296-1040%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingHeader%22%3A%22X-Media-Token%22%2C%22xPaddingKey%22%3A%22_t%22%2C%22sessionPlacement%22%3A%22cookie%22%2C%22sessionKey%22%3A%22stream_auth%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22sessionIDKey%22%3A%22stream_auth%22%2C%22seqPlacement%22%3A%22cookie%22%2C%22seqKey%22%3A%22part_index%22%2C%22uplinkChunkSize%22%3A0.0%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0.0%2C%22cMaxReuseTimes%22%3A%2224-64%22%2C%22maxConcurrency%22%3A%224-8%22%2C%22maxConnections%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22160-320%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%7D%2C%22scMaxEachPostBytes%22%3A100000.0%2C%22scMinPostsIntervalMs%22%3A70.0%7D#🇪🇺Обход LTE №4
-vless://d3815c21-ef06-43e2-82e1-ca313962b489@188.72.103.3:443?encryption=none&security=tls&sni=cdnapiv3.streamru4.net&fp=chrome&type=xhttp&mode=packet-up&host=cdnapiv3.streamru4.net&path=%2Fapi%2Fv71%2Fuptodown&extra=%7B%22uplinkHTTPMethod%22%3A%22GET%22%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22xPaddingBytes%22%3A%2296-1040%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingHeader%22%3A%22X-Media-Token%22%2C%22xPaddingKey%22%3A%22_t%22%2C%22sessionPlacement%22%3A%22cookie%22%2C%22sessionKey%22%3A%22stream_auth%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22sessionIDKey%22%3A%22stream_auth%22%2C%22seqPlacement%22%3A%22cookie%22%2C%22seqKey%22%3A%22part_index%22%2C%22uplinkChunkSize%22%3A0.0%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0.0%2C%22cMaxReuseTimes%22%3A%2224-64%22%2C%22maxConcurrency%22%3A%224-8%22%2C%22maxConnections%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22160-320%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%7D%2C%22scMaxEachPostBytes%22%3A100000.0%2C%22scMinPostsIntervalMs%22%3A70.0%7D#🇪🇺Обход LTE №5
+{
+  "log": {
+    "loglevel": "none"
+  },
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "listen": "0.0.0.0",
+      "port": 10808,
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ]
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    },
+    {
+      "tag": "http",
+      "listen": "0.0.0.0",
+      "port": 10809,
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ]
+      },
+      "settings": {
+        "auth": "noauth"
+      }
+    }
+  ],
+  "meta": {
+    "serverDescription": "⚡️ Когда сеть доступна"
+  },
+  "outbounds": [
+    {
+      "protocol": "hysteria",
+      "tag": "proxy",
+      "settings": {
+        "version": 2,
+        "address": "save.the.127-0-0-1.online",
+        "port": 443
+      },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "save.the.127-0-0-1.online",
+          "fingerprint": "firefox"
+        },
+        "hysteriaSettings": {
+          "version": 2,
+          "auth": "6urxtiJkuL43k8dEZLq9uq8YRO9ppt5E"
+        }
+      }
+    },
+    {
+      "tag": "DIRECT",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "BLOCK",
+      "protocol": "blackhole"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "type": "field",
+        "protocol": [
+          "bittorrent"
+        ],
+        "outboundTag": "BLOCK"
+      },
+      {
+        "type": "field",
+        "domain": [
+          "regexp:(^|\\.)ya\\.ru$",
+          "regexp:(^|\\.)yandex\\.(ru|net)$",
+          "regexp:(^|\\.)dzen\\.ru$",
+          "regexp:(^|\\.)mail\\.ru$",
+          "regexp:(^|\\.)vk\\.com$",
+          "regexp:(^|\\.)vkvideo\\.ru$",
+          "regexp:(^|\\.)ok\\.ru$",
+          "regexp:(^|\\.)rutube\\.ru$",
+          "regexp:(^|\\.)rutube\\.com$",
+          "regexp:(^|\\.)rambler\\.ru$",
+          "regexp:(^|\\.)lenta\\.ru$",
+          "regexp:(^|\\.)ria\\.ru$",
+          "regexp:(^|\\.)tass\\.ru$",
+          "regexp:(^|\\.)gazeta\\.ru$",
+          "regexp:(^|\\.)kommersant\\.ru$",
+          "regexp:(^|\\.)rg\\.ru$",
+          "regexp:(^|\\.)iz\\.ru$",
+          "regexp:(^|\\.)cnews\\.ru$",
+          "regexp:(^|\\.)habr\\.com$",
+          "regexp:(^|\\.)habr\\.ru$",
+          "regexp:(^|\\.)gosuslugi\\.ru$",
+          "regexp:(^|\\.)nalog\\.gov\\.ru$",
+          "regexp:(^|\\.)mos\\.ru$",
+          "regexp:(^|\\.)sber\\.ru$",
+          "regexp:(^|\\.)sberbank\\.ru$",
+          "regexp:(^|\\.)tbank\\.ru$",
+          "regexp:(^|\\.)tinkoff\\.ru$",
+          "regexp:(^|\\.)alfabank\\.ru$",
+          "regexp:(^|\\.)vtb\\.ru$",
+          "regexp:(^|\\.)ozon\\.ru$",
+          "regexp:(^|\\.)wildberries\\.ru$",
+          "regexp:(^|\\.)wb\\.ru$",
+          "regexp:(^|\\.)avito\\.ru$",
+          "regexp:(^|\\.)2gis\\.ru$",
+          "regexp:(^|\\.)cdek\\.ru$",
+          "regexp:(^|\\.)pochta\\.ru$",
+          "regexp:(^|\\.)consultant\\.ru$",
+          "regexp:(^|\\.)garant\\.ru$",
+          "regexp:(^|\\.)kino\\.ru$",
+          "regexp:(^|\\.)kinopoisk\\.ru$",
+          "regexp:(^|\\.)music\\.yandex\\.(ru|net)$",
+          "regexp:(^|\\.)disk\\.yandex\\.(ru|net)$",
+          "regexp:(^|\\.).*\\.ru$",
+          "regexp:(^|\\.).*\\.рф$",
+          "regexp:(^|\\.).*\\.su$"
+        ],
+        "outboundTag": "DIRECT"
+      },
+      {
+        "type": "field",
+        "ip": [
+          "geoip:private"
+        ],
+        "outboundTag": "DIRECT"
+      }
+    ]
+  },
+  "remarks": "🇫🇮 Финляндия "
+}
