@@ -1,6 +1,6 @@
 #profile-title: Sam Vpn
 #announce: ⚡ — лучшие сервера.
-#subscription-userinfo: upload=0; download=0; total=0; expire=253392451200
+#subscription-userinfo: upload=0; download=0; total=0; expire=1959552000
 
 hysteria2://f7eb71cc-38c3-471c-839a-9a7918536698@144.31.126.220:4444?sni=finland-core-sh.cvedcdigital.vip&fp=randomized&alpn=h3#🇫🇮⚡Финляндия | HY2
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@save.the.127-0-0-1.online:443?sni=save.the.127-0-0-1.online&fp=firefox#🇫🇮Финляндия | HY2
