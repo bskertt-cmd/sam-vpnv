@@ -4,7 +4,7 @@
 
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@save.the.127-0-0-1.online:443?sni=save.the.127-0-0-1.online&fp=firefox#🇫🇮Финляндия | HY2
 
-hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@b-balance.avantage.7.s.cdnnow.xyz:443?sni=b-balance.avantage.7.s.cdnnow.xyz&fp=firefox#🇵🇱Польша | HY2
+vless://8fa6b3dc-cdb1-4438-8e27-c2d5123cfd10@62.132.117.17:43439?encryption=none&security=reality&sni=cdn.24cloudplay.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=70726312c6d1365d&type=grpc&serviceName=streaming&mode=gun#🇵🇱Польша | gRPC
 
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@gate-vde.multihost.127-0-0-1.online:443?sni=gate-v1.not-a-projects.xyz#🇩🇪Германия | HY2
 
