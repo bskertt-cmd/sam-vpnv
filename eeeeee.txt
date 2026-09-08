@@ -2,7 +2,7 @@
 #announce: ⚡ — лучшие сервера. ⚠️ — временно не работает. Пинг может показываться не правильно,при n/a все равно попробуйте подключиться к серверу.
 #subscription-userinfo: upload=0; download=0; total=0; expire=1959552000
 
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@185.200.241.35:2053?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.microsoft.com&fp=edge&pbk=Iu1pjP6sBtOMgzhyflXOb9Gb6GM4yzttdkqwXPnbtQ0&sid=facabd93fe5b9f41&type=tcp&headerType=none#🇷🇺⚡Youtube без рекламы
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@estdfsf.cloudvk.cc:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=estdfsf.cloudvk.cc&fp=firefox&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&type=tcp&headerType=none#🇪🇪⚡Эстония | Min. Пинг
 vless://a8d74d4d-1fa1-4ae4-96cd-dd6ad60d15bf@31.76.31.235:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=NweAmwfe6_o_kpCZTAyY5W7yvQaAvNXfwDh6wSkmF2U&fp=firefox&type=raw&sid=3f69ecc51edc3231&sni=pop-01.file-rkat.online#🇫🇮⚡Финляндия | TCP
 
 
@@ -11,7 +11,7 @@ hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@save.the.127-0-0-1.online:443?sni=s
 
 hysteria2://f7eb71cc-38c3-471c-839a-9a7918536698@infra-core.cvedcdigital.vip:1443?sni=infra-core.cvedcdigital.vip&fp=chrome&alpn=h3#🇵🇱⚡Польша | HY2
 vless://f7eb71cc-38c3-471c-839a-9a7918536698@infra-core.cvedcdigital.vip:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cvedcdigital.vip&pbk=C60JC0DuhD7vbIlhqTPBDphChkZOjXpA2693zyEvCwM&sid=a4f8c92d&fp=firefox&type=tcp#🇵🇱⚡Польша | Резерв
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@185.200.241.35:52006?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.microsoft.com&fp=edge&pbk=Iu1pjP6sBtOMgzhyflXOb9Gb6GM4yzttdkqwXPnbtQ0&sid=facabd93fe5b9f41&type=tcp&headerType=none#🇵🇱⚡Польша | Gemini
+vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@2.26.255.99:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=hyjik.mervi.icu&fp=firefox&pbk=vPyWYb8hplqCP1lsABPEnLmK0e93h4vr3amlaRC67FA&sid=7ba136a9edb83c99&type=tcp&headerType=none#🇵🇱Польша | Gemini
 
 
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@gate-vde.multihost.127-0-0-1.online:443?sni=gate-v1.not-a-projects.xyz&insecure=0#🇩🇪⚡Германия | HY2
