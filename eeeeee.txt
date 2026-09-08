@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=73646022656000; download=0; total=0; expire=151392240000
 
 
-vless://a8d74d4d-1fa1-4ae4-96cd-dd6ad60d15bf@31.76.31.235:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=NweAmwfe6_o_kpCZTAyY5W7yvQaAvNXfwDh6wSkmF2U&fp=firefox&type=raw&sid=3f69ecc51edc3231&sni=pop-01.file-rkat.online#🇫🇮⚡Финляндия | TCP
+
 
 
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@save.the.127-0-0-1.online:443?sni=save.the.127-0-0-1.online&fp=firefox#🇫🇮Финляндия | HY2
@@ -17,11 +17,11 @@ vless://f7eb71cc-38c3-471c-839a-9a7918536698@infra-core.cvedcdigital.vip:8943?se
 
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@gate-vde.multihost.127-0-0-1.online:443?sni=gate-v1.not-a-projects.xyz&insecure=0#🇩🇪⚡Германия | HY2
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@av-b-networkbalancer.cdnnow.xyz:443?peer=av-b-networkbalancer.cdnnow.xyz&insecure=0&alpn=h3#🇩🇪⚡Германия | HY2+GEMINI
-hysteria2://9008e276-9424-48a0-bac2-915a5a8e86db@gaming-02.file-rkat.online:443?peer=gaming-02.file-rkat.online&insecure=0&alpn=h3&obfs=salamander&obfs-password=Gu6pXCv92h4xOketS5_0n3GV#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20HY2
+
 
 vless://fde7bcd3-d1e9-49ce-b2a6-026c4d6f48b3@av-b-networkbalancer.cdnnow.xyz:443?encryption=none&security=tls&sni=av-b-networkbalancer.cdnnow.xyz&fp=firefox&type=httpupgrade&path=%2Fstatic%2Ffiles%2Fdownloads%2Fstream%2Fsegment_ohs8hwnw772hsb.mp2&host=av-b-networkbalancer.cdnnow.xyz#🇩🇪Германия
 
-vless://9008e276-9424-48a0-bac2-915a5a8e86db@31.76.252.17:443?security=reality&encryption=none&pbk=tbKg89n1kirBQbHyexrBIH21iHS0JigQnPqits499R4&fp=firefox&path=%2Fassets%2Fmedia%2F7c2a83&mode=auto&type=xhttp&sid=f7c8ee5aa55993a0&sni=cl-78.file-rkat.online#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20XHTTP
+
 
 vless://0e8d51a4-f71d-4a31-a77d-47fed6ac2642@2.26.83.62:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ny_08hNS3MFmwSqyEFFcSJP4QWWQn6Gl30cFTmkevCU&sni=addons.mozilla.org&type=tcp#🇳🇱⚡Нидерланды | TCP
 
