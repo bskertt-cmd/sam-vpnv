@@ -20,6 +20,7 @@ vless://f7eb71cc-38c3-471c-839a-9a7918536698@infra-core.cvedcdigital.vip:8943?se
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@gate-vde.multihost.127-0-0-1.online:443?sni=gate-v1.not-a-projects.xyz&insecure=0#🇩🇪⚡Германия | HY2
 hysteria2://Ti_mrVKycU_BhCiyH0-KeTJdSoLdMIJa@av-b-networkbalancer.cdnnow.xyz:443?peer=av-b-networkbalancer.cdnnow.xyz&insecure=0&alpn=h3#🇩🇪⚡Германия | HY2+GEMINI
 vless://94f71f68-2d74-4d37-84a7-d3c9eb683cb0@de.crabby.network:443?security=reality&encryption=none&pbk=I3Mrg6E09NovWPlSEDU_HXAd5J4741ni16wXq7gy2VI&fp=firefox&type=tcp&sni=de.crabby.network#🇩🇪⚡[SAM] Германия | ULTRA
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gesmankos.sadiepinki.com&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3&spx=%2F&fp=firefox&type=tcp#🇩🇪⚡[SAM] Германия | 10GB/S
 
 
 vless://fde7bcd3-d1e9-49ce-b2a6-026c4d6f48b3@av-b-networkbalancer.cdnnow.xyz:443?encryption=none&security=tls&sni=av-b-networkbalancer.cdnnow.xyz&fp=firefox&type=httpupgrade&path=%2Fstatic%2Ffiles%2Fdownloads%2Fstream%2Fsegment_ohs8hwnw772hsb.mp2&host=av-b-networkbalancer.cdnnow.xyz#🇩🇪Германия
