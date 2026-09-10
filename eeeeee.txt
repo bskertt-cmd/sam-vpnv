@@ -27,7 +27,7 @@ vless://fde7bcd3-d1e9-49ce-b2a6-026c4d6f48b3@av-b-networkbalancer.cdnnow.xyz:443
 
 
 vless://0e8d51a4-f71d-4a31-a77d-47fed6ac2642@2.26.83.62:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Ny_08hNS3MFmwSqyEFFcSJP4QWWQn6Gl30cFTmkevCU&sni=addons.mozilla.org&type=tcp#🇳🇱⚡Нидерланды | TCP
-vless://94f71f68-2d74-4d37-84a7-d3c9eb683cb0@nl.crabby.network:443?security=reality&encryption=none&pbk=Ct_AJAXFtVCNdn4zZGTxu11U8-SI8OP6E9saLudXnAE&fp=firefox&type=tcp&sni=nl.crabby.network#🇳🇱⚡[SAM] Нидерланды | ULTRA
+
 
 
 
