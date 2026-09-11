@@ -29,7 +29,7 @@ vless://fde7bcd3-d1e9-49ce-b2a6-026c4d6f48b3@av-b-networkbalancer.cdnnow.xyz:443
 
 
 
-vless://94f71f68-2d74-4d37-84a7-d3c9eb683cb0@nl.crabby.network:443?security=reality&encryption=none&pbk=Ct_AJAXFtVCNdn4zZGTxu11U8-SI8OP6E9saLudXnAE&fp=firefox&type=tcp&sni=nl.crabby.network#🇳🇱⚡[SAM]Нидерланды
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@italia.superbuba.top:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&fp=firefox&spx=%2F&type=tcp&sid=4fa44664f6a566d3&sni=italia.superbuba.top#🇮🇹⚡Италия | Быстрый
 
 
 
